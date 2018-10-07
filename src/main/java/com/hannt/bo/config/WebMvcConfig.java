@@ -1,7 +1,7 @@
 package com.hannt.bo.config;
 
 import com.hannt.bo.BackOfficeConfig;
-import com.hannt.bo.common.web.interceptor.AuthenticationInterceptor;
+import com.hannt.core.web.interceptor.AuthenticationInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.FilterType;

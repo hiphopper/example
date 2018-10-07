@@ -1,4 +1,4 @@
-package com.hannt.bo.common.utils;
+package com.hannt.core.utils;
 
 import org.springframework.util.StringUtils;
 

@@ -1,6 +1,6 @@
-package com.hannt.bo.common.domain;
+package com.hannt.core.model;
 
-import com.hannt.bo.common.utils.StringUtil;
+import com.hannt.core.utils.StringUtil;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

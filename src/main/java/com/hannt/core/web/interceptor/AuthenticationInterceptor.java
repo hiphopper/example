@@ -1,6 +1,6 @@
-package com.hannt.bo.common.web.interceptor;
+package com.hannt.core.web.interceptor;
 
-import com.hannt.bo.common.domain.AccessInfo;
+import com.hannt.core.model.AccessInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

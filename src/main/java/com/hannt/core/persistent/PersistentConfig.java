@@ -1,4 +1,4 @@
-package com.hannt.bo.config;
+package com.hannt.core.persistent;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
